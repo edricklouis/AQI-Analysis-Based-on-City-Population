@@ -1,0 +1,473 @@
+country_name,city_name,aqi_value,population_2024,population_category
+Japan,Tokyo,79,37115035,Giant
+India,Delhi,500,33807403,Giant
+China,Shanghai,156,29867918,Giant
+Brazil,Sao Paulo,198,22806704,Giant
+Egypt,Cairo,81,22623874,Giant
+China,Chongqing,283,17773923,Very Large
+Pakistan,Karachi,151,17648555,Very Large
+Turkey,Istanbul,59,16047350,Very Large
+Philippines,Manila,131,14941953,Very Large
+China,Guangzhou,184,14590096,Very Large
+China,Tianjin,142,14470873,Very Large
+Pakistan,Lahore,161,14407074,Very Large
+India,Bangalore,77,14008262,Very Large
+Brazil,Rio De Janeiro,87,13824347,Very Large
+China,Shenzhen,154,13311855,Very Large
+Colombia,Bogota,75,11658211,Very Large
+Indonesia,Jakarta,197,11436004,Very Large
+Peru,Lima,110,11361938,Very Large
+Thailand,Bangkok,69,11233869,Very Large
+India,Hyderabad,201,11068877,Very Large
+China,Nanjing,185,9947548,Large
+China,Chengdu,386,9828110,Large
+China,Suzhou,141,9700619,Large
+Angola,Luanda,164,9651032,Large
+Japan,Nagoya,59,9556879,Large
+China,Wuhan,175,8850850,Large
+Malaysia,Kuala Lumpur,76,8815630,Large
+China,Hangzhou,203,8419842,Large
+India,Surat,119,8330528,Large
+Iraq,Baghdad,143,7921134,Large
+China,Shenyang,125,7830377,Large
+Saudi Arabia,Riyadh,196,7820551,Large
+China,Foshan,149,7704935,Large
+India,Pune,98,7345848,Large
+Sudan,Khartoum,77,6542070,Large
+Canada,Toronto,38,6431430,Large
+South Africa,Johannesburg,121,6324351,Large
+Brazil,Belo Horizonte,41,6300409,Large
+China,Dalian,97,6217487,Large
+Singapore,Singapore,91,6119203,Large
+China,Qingdao,232,6104597,Large
+Egypt,Alexandria,56,5696131,Large
+Kenya,Nairobi,107,5541172,Large
+Turkey,Ankara,44,5477087,Large
+Mexico,Monterrey,85,5195355,Large
+Australia,Sydney,42,5184896,Large
+China,Urumqi,152,5005964,Large
+South Africa,Cape Town,149,4977833,Medium
+Saudi Arabia,Jiddah,90,4943210,Medium
+Brazil,Brasilia,21,4935274,Medium
+China,Kunming,49,4861079,Medium
+China,Changchun,100,4802447,Medium
+Afghanistan,Kabul,64,4728384,Medium
+China,Hefei,172,4727290,Medium
+Cameroon,Yaounde,51,4681768,Medium
+China,Ningbo,205,4659830,Medium
+Nigeria,Kano,138,4490734,Medium
+Canada,Montreal,68,4341638,Medium
+India,Jaipur,191,4308510,Medium
+Brazil,Recife,42,4305127,Medium
+China,Nanning,128,4291463,Medium
+Brazil,Fortaleza,25,4246399,Medium
+Brazil,Porto Alegre,26,4239867,Medium
+Cameroon,Douala,79,4203108,Medium
+India,Malappuram,132,4184921,Medium
+China,Changzhou,164,4085502,Medium
+Uganda,Kampala,110,4050826,Medium
+Madagascar,Antananarivo,28,4048666,Medium
+Nigeria,Abuja,73,4025735,Medium
+China,Nanchang,120,4016037,Medium
+China,Wenzhou,145,4009531,Medium
+China,Xiamen,122,4007468,Medium
+Nigeria,Ibadan,79,4004316,Medium
+Brazil,Salvador,30,3994982,Medium
+Morocco,Casablanca,37,3950408,Medium
+Ghana,Kumasi,79,3903481,Medium
+Brazil,Curitiba,56,3852459,Medium
+Indonesia,Bekasi,193,3830678,Medium
+Pakistan,Faisalabad,301,3800193,Medium
+China,Guiyang,99,3661446,Medium
+Nigeria,Port Harcourt,179,3636547,Medium
+India,Thrissur,89,3605238,Medium
+Paraguay,Asuncion,26,3568830,Medium
+Senegal,Dakar,166,3540462,Medium
+China,Wuxi,176,3498740,Medium
+Brazil,Campinas,80,3458441,Medium
+Mexico,Puebla,170,3394342,Medium
+India,Indore,150,3393380,Medium
+China,Lanzhou,152,3365910,Medium
+Burkina Faso,Ouagadougou,67,3358934,Medium
+Zambia,Lusaka,42,3324219,Medium
+India,Kanpur,173,3286142,Medium
+Ecuador,Guayaquil,66,3193267,Medium
+Italy,Milan,67,3160631,Medium
+Guatemala,Guatemala City,79,3159631,Medium
+Indonesia,Depok,60,3133298,Medium
+Turkey,Izmir,63,3120340,Medium
+India,Nagpur,152,3106340,Medium
+Indonesia,Surabaya,152,3088748,Medium
+China,Handan,200,3085998,Medium
+Haiti,Port Au Prince,90,3060169,Medium
+China,Zhongshan,98,3051065,Medium
+United Arab Emirates,Dubai,152,3051016,Medium
+Mali,Bamako,72,3050570,Medium
+Ukraine,Kiev,36,3020228,Medium
+Portugal,Lisbon,41,3014607,Medium
+China,Weifang,165,2994537,Medium
+India,Thiruvananthapuram,65,2984154,Medium
+Algeria,Algiers,154,2952115,Medium
+Colombia,Cali,30,2890433,Medium
+Brazil,Goiania,93,2890418,Medium
+South Africa,Pretoria,329,2889899,Medium
+China,Shaoxing,109,2882171,Medium
+China,Yantai,97,2834508,Medium
+China,Huizhou,124,2827610,Medium
+Somalia,Mogadishu,31,2726815,Medium
+Ghana,Accra,76,2721165,Medium
+Indonesia,Bandung,198,2714215,Medium
+China,Luoyang,102,2666744,Medium
+Uzbekistan,Tashkent,86,2633661,Medium
+India,Patna,365,2633243,Medium
+India,Bhopal,162,2624865,Medium
+Indonesia,Tangerang,201,2570980,Medium
+China,Nantong,206,2555722,Medium
+Australia,Brisbane,31,2536449,Medium
+Tunisia,Tunis,45,2510673,Medium
+Pakistan,Peshawar,192,2480546,Medium
+Indonesia,Medan,101,2479070,Medium
+Pakistan,Gujranwala,175,2479058,Medium
+Azerbaijan,Baku,79,2464162,Medium
+China,Hohhot,64,2443686,Medium
+Brazil,Belem,60,2432177,Medium
+Pakistan,Rawalpindi,129,2430388,Medium
+India,Agra,183,2422342,Medium
+Brazil,Manaus,40,2406854,Medium
+Lebanon,Beirut,64,2402485,Medium
+China,Liuzhou,149,2397410,Medium
+India,Visakhapatnam,155,2385110,Medium
+India,Vadodara,155,2373365,Medium
+Colombia,Barranquilla,130,2373302,Medium
+Japan,Sendai,51,2341433,Medium
+China,Xuzhou,184,2332531,Medium
+Mexico,Tijuana,59,2297216,Medium
+India,Vijayawada,93,2290785,Medium
+Pakistan,Multan,194,2205407,Medium
+Saudi Arabia,Mecca,150,2184560,Medium
+India,Kollam,70,2181940,Medium
+China,Yangzhou,150,2175102,Medium
+China,Baoding,164,2149703,Medium
+Belgium,Brussels,53,2132178,Medium
+Turkey,Bursa,54,2115513,Medium
+India,Rajkot,151,2096981,Medium
+Belarus,Minsk,35,2064733,Medium
+Japan,Hiroshima,50,2062884,Medium
+China,Haikou,158,2056646,Medium
+Kazakhstan,Almaty,83,2015209,Medium
+Indonesia,Semarang,160,2013571,Medium
+Morocco,Rabat,83,1989197,Medium
+India,Ludhiana,166,1988438,Medium
+Ecuador,Quito,131,1986667,Medium
+China,Zhuhai,70,1930373,Medium
+China,Quanzhou,95,1920733,Medium
+Mozambique,Matola,66,1915035,Medium
+China,Datong,44,1913674,Medium
+United Arab Emirates,Sharjah,169,1872199,Medium
+India,Madurai,63,1871912,Medium
+India,Raipur,169,1871107,Medium
+Turkey,Adana,55,1856638,Medium
+Indonesia,Palembang,74,1852673,Medium
+Turkey,Gaziantep,53,1833006,Medium
+Italy,Turin,61,1805727,Medium
+Poland,Warsaw,40,1799451,Medium
+China,Jiangmen,98,1797469,Medium
+India,Varanasi,184,1789047,Medium
+Germany,Hamburg,34,1787280,Medium
+Uruguay,Montevideo,26,1781363,Medium
+Hungary,Budapest,81,1780391,Medium
+France,Lyon,107,1774395,Medium
+Romania,Bucharest,50,1767520,Medium
+China,Yichang,167,1758100,Medium
+China,Yinchuan,137,1757699,Medium
+India,Srinagar,115,1737502,Medium
+Liberia,Monrovia,60,1735365,Medium
+India,Tiruppur,52,1731862,Medium
+India,Jamshedpur,155,1730521,Medium
+India,Aurangabad,324,1725283,Medium
+China,Qinhuangdao,87,1723728,Medium
+China,Anshan,78,1713452,Medium
+China,Xining,156,1705078,Medium
+China,Hengyang,169,1702012,Medium
+Mongolia,Ulaanbaatar,44,1699363,Medium
+Nigeria,Onitsha,213,1694913,Medium
+China,Jilin,62,1693701,Medium
+China,Anyang,186,1693375,Medium
+New Zealand,Auckland,69,1692770,Medium
+Oman,Muscat,155,1676167,Medium
+Canada,Calgary,47,1665023,Medium
+France,Marseille,59,1635707,Medium
+Argentina,Cordoba,41,1625937,Medium
+India,Jodhpur,500,1625325,Medium
+Nepal,Kathmandu,123,1621642,Medium
+Argentina,Rosario,57,1613041,Medium
+Honduras,Tegucigalpa,50,1609261,Medium
+Zimbabwe,Harare,61,1603201,Medium
+United Arab Emirates,Abu Dhabi,170,1593284,Medium
+Germany,Munich,45,1584507,Medium
+India,Ranchi,160,1584237,Medium
+China,Zhangjiakou,160,1568122,Medium
+Canada,Edmonton,49,1567615,Medium
+Myanmar,Mandalay,71,1563021,Medium
+India,Kota,160,1558468,Medium
+Brazil,Natal,24,1556413,Medium
+Mauritania,Nouakchott,166,1552146,Medium
+India,Jabalpur,170,1551004,Medium
+China,Huainan,164,1538603,Medium
+India,Asansol,124,1534081,Medium
+China,Chaozhou,117,1520628,Medium
+India,Gwalior,174,1508846,Medium
+China,Ganzhou,128,1508037,Medium
+Niger,Niamey,56,1496258,Medium
+Kenya,Mombasa,51,1495223,Medium
+India,Allahabad,189,1493346,Medium
+India,Amritsar,168,1480470,Medium
+Thailand,Chon Buri,51,1472709,Medium
+China,Jiaxing,130,1470917,Medium
+China,Weihai,86,1465926,Medium
+Switzerland,Zurich,109,1443349,Medium
+Mexico,Queretaro,139,1436818,Medium
+Brazil,Joao Pessoa,23,1435125,Medium
+China,Kaifeng,154,1434463,Medium
+Turkey,Konya,64,1429935,Medium
+China,Rizhao,151,1426583,Medium
+India,Dhanbad,128,1414532,Medium
+China,Nanchong,163,1412714,Medium
+China,Dongying,110,1410791,Medium
+Serbia,Belgrade,101,1410697,Medium
+China,Zunyi,170,1406091,Medium
+China,Zhanjiang,64,1399310,Medium
+Colombia,Bucaramanga,43,1396632,Medium
+Nigeria,Uyo,150,1393453,Medium
+China,Shiyan,151,1387377,Medium
+Australia,Adelaide,44,1379280,Medium
+Thailand,Samut Prakan,62,1376146,Medium
+Turkey,Antalya,41,1372400,Medium
+Brazil,Joinville,105,1361992,Medium
+China,Tengzhou,165,1360779,Medium
+China,Yingkou,74,1355564,Medium
+Sierra Leone,Freetown,27,1347559,Medium
+Finland,Helsinki,162,1346810,Medium
+India,Aligarh,173,1346018,Medium
+India,Moradabad,500,1335966,Medium
+China,Maoming,65,1333930,Medium
+Malawi,Lilongwe,33,1333096,Medium
+Portugal,Porto,28,1329301,Medium
+Kazakhstan,Astana,26,1324111,Medium
+Benin,Abomey Calavi,95,1314916,Medium
+China,Ruian,117,1314784,Medium
+South Africa,Port Elizabeth,79,1312631,Medium
+Nigeria,Nnewi,154,1300993,Medium
+China,Jinhua,143,1296065,Medium
+Mexico,San Luis Potosi,31,1292133,Medium
+China,Baoji,156,1290231,Medium
+India,Bhubaneswar,132,1289254,Medium
+Rwanda,Kigali,107,1287952,Medium
+Bulgaria,Sofia,50,1287540,Medium
+China,Chifeng,67,1279544,Medium
+China,Zhuzhou,80,1277238,Medium
+Burundi,Bujumbura,90,1277050,Medium
+Pakistan,Islamabad,178,1266792,Medium
+China,Huaibei,153,1264856,Medium
+Indonesia,Tasikmalaya,56,1258124,Medium
+Indonesia,Bogor,170,1256155,Medium
+Argentina,Mendoza,45,1242319,Medium
+China,Luohe,161,1241152,Medium
+India,Chandigarh,166,1239699,Medium
+China,Jinzhou,74,1238377,Medium
+China,Benxi,105,1237550,Medium
+China,Binzhou,182,1233584,Medium
+Nigeria,Aba,196,1230407,Medium
+Thailand,Chiang Mai,20,1228773,Medium
+Pakistan,Quetta,125,1221495,Medium
+Nigeria,Kaduna,84,1221451,Medium
+China,Guilin,90,1218067,Medium
+India,Saharanpur,174,1207856,Medium
+India,Guwahati,147,1199455,Medium
+Mexico,Mexicali,37,1196982,Medium
+Mozambique,Maputo,41,1193253,Medium
+Israel,Haifa,90,1186475,Medium
+Burkina Faso,Bobo Dioulasso,34,1185053,Medium
+Netherlands,Amsterdam,38,1181817,Medium
+Mexico,Aguascalientes,55,1179301,Medium
+Somalia,Hargeysa,96,1176617,Medium
+China,Xinxiang,178,1160840,Medium
+China,Wenling,92,1159259,Medium
+China,Zaozhuang,160,1150859,Medium
+Germany,Cologne,53,1149014,Medium
+China,Fuyang,149,1146343,Medium
+Nigeria,Ikorodu,86,1145224,Medium
+India,Jalandhar,150,1142682,Medium
+Mexico,Cuernavaca,194,1140169,Medium
+Mexico,Chihuahua,64,1135342,Medium
+China,Shangrao,142,1130887,Medium
+Indonesia,Samarinda,57,1128176,Medium
+China,Zhaoqing,145,1127601,Medium
+El Salvador,San Salvador,107,1123376,Medium
+China,Chenzhou,126,1119791,Medium
+China,Leshan,180,1116497,Medium
+Yemen,Aden,81,1116193,Medium
+Eritrea,Asmara,88,1111748,Medium
+China,Dezhou,157,1108356,Medium
+Nicaragua,Managua,57,1107118,Medium
+Malaysia,Johor Bahru,107,1107001,Medium
+Norway,Oslo,39,1100868,Medium
+Iraq,Kirkuk,137,1100390,Medium
+Armenia,Yerevan,52,1097542,Medium
+China,Huzhou,154,1091811,Medium
+China,Xuchang,202,1091744,Medium
+France,Lille,48,1085199,Medium
+Georgia,Tbilisi,36,1084471,Medium
+Indonesia,Denpasar,39,1075244,Medium
+France,Toulouse,53,1070746,Medium
+Brazil,Aracaju,22,1070122,Medium
+China,Qujing,46,1066897,Medium
+China,Yueyang,140,1064166,Medium
+Nigeria,Ilorin,108,1063713,Medium
+Mexico,Tampico,34,1062567,Medium
+Belgium,Antwerp,39,1061089,Medium
+Brazil,Teresina,27,1059657,Medium
+India,Warangal,164,1055604,Medium
+Indonesia,Padang,57,1052849,Medium
+Mexico,Saltillo,48,1050320,Medium
+China,Xintai,168,1049486,Medium
+Mexico,Cancun,29,1045005,Medium
+Nigeria,Warri,202,1031425,Medium
+Turkey,Kayseri,40,1025507,Medium
+China,Chengde,99,1024521,Medium
+Nigeria,Owerri,141,1022922,Medium
+Netherlands,Rotterdam,35,1021919,Medium
+China,Zhucheng,162,1019600,Medium
+Thailand,Songkhla,54,1017784,Medium
+Thailand,Nonthaburi,63,1013672,Medium
+China,Leiyang,97,1013191,Medium
+Tajikistan,Dushanbe,81,1012794,Medium
+Mozambique,Nampula,20,1012582,Medium
+Libya,Misratah,46,1011119,Medium
+China,Laiwu,140,1009727,Medium
+France,Bordeaux,47,1009594,Medium
+Honduras,San Pedro Sula,79,1008220,Medium
+Ukraine,Odesa,48,1007596,Medium
+China,Jiujiang,142,1004247,Medium
+Angola,Lubango,40,1003016,Medium
+Mexico,Morelia,52,1002461,Medium
+Nigeria,Jos,64,1001155,Medium
+Morocco,Agadir,41,998146,Small
+China,Mudanjiang,38,992414,Small
+Bangladesh,Rajshahi,191,983707,Small
+China,Hengshui,188,983694,Small
+China,Zhangzhou,145,980054,Small
+China,Xinyu,107,979303,Small
+China,Linfen,156,978614,Small
+China,Tianmen,178,978317,Small
+China,Yangjiang,56,976606,Small
+Colombia,Cucuta,49,972485,Small
+Peru,Arequipa,57,971296,Small
+China,Liling,106,970907,Small
+Philippines,Antipolo,61,968288,Small
+Mexico,Veracruz,55,968070,Small
+Mexico,Reynosa,35,967627,Small
+Bangladesh,Khulna,53,965483,Small
+China,Deyang,164,963160,Small
+Thailand,Pathum Thani,63,962126,Small
+China,Bengbu,174,959784,Small
+China,Jiangyin,169,959250,Small
+Mexico,Villahermosa,173,958118,Small
+France,Nice,54,951808,Small
+Angola,Cabinda,49,947634,Small
+Nigeria,Umuahia,165,947460,Small
+Pakistan,Bahawalpur,189,944812,Small
+India,Guntur,161,940205,Small
+Brazil,Campo Grande,33,934936,Small
+Indonesia,Malang,67,933392,Small
+Brazil,Londrina,35,932892,Small
+China,Dandong,81,932648,Small
+Mexico,Hermosillo,80,929961,Small
+India,Bhiwandi,151,924670,Small
+Argentina,La Plata,43,923715,Small
+China,Changde,150,919026,Small
+Italy,Bergamo,89,918675,Small
+India,Firozabad,169,918218,Small
+Peru,Trujillo,47,916632,Small
+China,Liaoyang,127,916238,Small
+China,Shangqiu,132,915823,Small
+Mexico,Tuxtla Gutierrez,69,913075,Small
+China,Xingtai,188,904070,Small
+Mexico,Culiacan,107,903910,Small
+China,Quzhou,131,902621,Small
+China,Fuxin,101,889767,Small
+Nigeria,Lokoja,59,885882,Small
+Gabon,Libreville,131,883920,Small
+China,Yongzhou,105,883326,Small
+Ukraine,Donetsk,37,882209,Small
+China,Yibin,151,881480,Small
+Nigeria,Enugu,170,875552,Small
+China,Xinyang,150,873268,Small
+Malaysia,Ipoh,69,872424,Small
+China,Luzhou,155,870714,Small
+Nigeria,Maiduguri,95,870201,Small
+China,Huaihua,121,869575,Small
+China,Bozhou,162,854946,Small
+India,Kottayam,79,853635,Small
+China,Zhuji,156,852608,Small
+Italy,Palermo,61,850233,Small
+Canada,Winnipeg,54,849251,Small
+Turkey,Eskisehir,54,848002,Small
+Angola,Benguela,92,843207,Small
+China,Heze,201,838928,Small
+India,Bikaner,500,835802,Small
+China,Haicheng,134,834639,Small
+Turkey,Gebze,57,831360,Small
+China,Taixing,140,830623,Small
+China,Liaocheng,184,830004,Small
+China,Zhumadian,137,829361,Small
+China,Langfang,137,827967,Small
+Mexico,Xalapa,52,822863,Small
+Angola,Malanje,68,822471,Small
+China,Anqiu,107,821765,Small
+Brazil,Sorocaba,73,821435,Small
+China,Gaomi,139,821154,Small
+Philippines,Dasmarinas,54,820886,Small
+China,Hanchuan,163,818761,Small
+Italy,Bologna,45,816848,Small
+Greece,Thessaloniki,63,814980,Small
+India,Muzaffarnagar,307,814491,Small
+Thailand,Nakhon Ratchasima,36,811446,Small
+Yemen,Ibb,156,810149,Small
+India,Amravati,157,808263,Small
+China,Jiaozuo,169,808079,Small
+South Africa,Vereeniging,274,802900,Small
+India,Gorakhpur,296,801634,Small
+Germany,Frankfurt,39,800529,Small
+China,Anqing,201,795987,Small
+Japan,Niigata,42,795916,Small
+Nigeria,Oshogbo,134,795808,Small
+China,Linhai,161,795777,Small
+China,Shaoguan,160,794279,Small
+Zambia,Kitwe,56,792350,Small
+Nigeria,Zaria,78,786197,Small
+Indonesia,Banjarmasin,42,785125,Small
+China,Dengzhou,141,783041,Small
+India,Belgaum,59,783020,Small
+India,Malegaon,133,781925,Small
+China,Zigong,146,779684,Small
+China,Qingyuan,153,778628,Small
+China,Yuncheng,187,777193,Small
+China,Shaoyang,159,776404,Small
+China,Yanji,69,775672,Small
+India,Tirupati,84,775455,Small
+Nigeria,Akure,76,773141,Small
+China,Tongliao,112,772756,Small
+Pakistan,Sialkot,162,770962,Small
+China,Tongling,150,770032,Small
+China,Wuzhou,51,768512,Small
+China,Jiamusi,151,761903,Small
+Pakistan,Sargodha,168,757915,Small
+Ghana,Tamale,56,757506,Small
+Brazil,Sao Jose Dos Campos,65,757137,Small
+Philippines,Bacoor,52,757035,Small
+China,Dongtai,159,756344,Small
+India,Bhavnagar,103,751493,Small
+Angola,Huambo,28,751297,Small
+Brazil,Ribeirao Preto,100,750174,Small
+China,Panzhihua,74,750036,Small
