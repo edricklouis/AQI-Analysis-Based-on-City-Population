@@ -2,7 +2,7 @@
 
 This research project aims to explore the relationship between air quality and city population size by analyzing air pollution data from cities worldwide. Air quality is measured using the Air Quality Index (AQI), which indicates the level of pollution in the air and its potential health effects. The study categorizes cities into five groups based on population size: small, medium, large, very large, and giant cities, providing insights into how population density may influence air pollution levels.
 <br><br>
-<b>View in Tableau Dashboard version :<b>
+<b>View in Tableau Dashboard version :</b>
 
 ## Dataset
 2024 Population by Cities Dataset : https://www.kaggle.com/datasets/ibrarhussain123/world-largest-cities-by-population-2024
