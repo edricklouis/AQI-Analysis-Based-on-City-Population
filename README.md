@@ -1,6 +1,8 @@
 # Air Quality Analysis Based on City Population
 
 This research project aims to explore the relationship between air quality and city population size by analyzing air pollution data from cities worldwide. Air quality is measured using the Air Quality Index (AQI), which indicates the level of pollution in the air and its potential health effects. The study categorizes cities into five groups based on population size: small, medium, large, very large, and giant cities, providing insights into how population density may influence air pollution levels.
+<br><br>
+<b>View in Tableau Dashboard version :<b>
 
 ## Dataset
 2024 Population by Cities Dataset : https://www.kaggle.com/datasets/ibrarhussain123/world-largest-cities-by-population-2024
@@ -31,9 +33,9 @@ The analysis of air quality across population categories reveals that "Giant" ci
 AQI, suggesting better air quality in comparison. The distribution of city categories shows that "Medium" cities dominate with 64.83%, followed by "Small" cities at 25.21%, while "Giant" and "Very Large" 
 cities represent only 1.06% and 3.18% respectively. This proves that the smaller the population, the better the air quality tends to be. This is proven by the fact that even though the medium population 
 category dominates all categories, the average air quality is the lowest.
-<br><br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/AQI Analysis Results/Top3Highest.png" style="width:48%; height:auto;">
-  <img src="/AQI Analysis Results/Top3Lowest.png" style="width:48%; height:auto;">
-</div>
+## Conclusions
+- Cities in the "Giant" population category have the highest average AQI (202.80), indicating the worst air quality, while "Medium" cities have the lowest average AQI (107.11), reflecting better air conditions
+- Most cities fall under the "Medium" (64.83%) and "Small" (25.21%) categories, while "Giant" cities make up only 1.06% of the data, and "Very Large" cities account for 3.18%
+- Larger population sizes are strongly associated with higher pollution levels, highlighting the significant impact of urbanization on air quality
+- Effective pollution management strategies are crucial for cities with larger populations, especially those in the "Giant" and "Very Large" categories, to minimize health risks
