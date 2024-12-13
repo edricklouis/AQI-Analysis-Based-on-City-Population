@@ -4,8 +4,6 @@ This research project aims to explore the relationship between air quality and c
 <br><br>
 <b>View in Tableau Dashboard version :</b>
 <br>
-<a href="https://public.tableau.com/views/AirQualityAnalysisBasedonCityPopulation/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" class="viewBtnStyle">View on Tableau</a>
-<br>
 https://public.tableau.com/views/AirQualityAnalysisBasedonCityPopulation/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Dataset
